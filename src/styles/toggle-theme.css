@@ -1,0 +1,20 @@
+.icon {
+  grid-column: 1 / 1;
+  grid-row: 1 / 1;
+  transition: transform 200ms;
+  line-height: 0.1;
+}
+
+.moon {
+  transition-delay: 75ms;
+}
+.sun {
+  transform: scale(0);
+}
+#theme-switch:checked ~ .moon {
+  transform: rotate(360deg) scale(0);
+}
+#theme-switch:checked ~ .sun {
+  transition-delay: 75ms;
+  transform: scale(1) rotate(360deg);
+}
