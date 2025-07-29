@@ -12,14 +12,14 @@
 <summary>Tabla de contenidos</summary>
 
 - [Countries Board](#countries-board)
-  - [Características principales](#características-principales)
-  - [Tecnologías principales](#tecnologías-principales)
-  - [APIs utilizadas](#apis-utilizadas)
-  - [Funcionalidades](#funcionalidades)
-  - [Capturas de pantalla de Countries Board](#capturas-de-pantalla-de-countries-board)
-  - [Objetivo del proyecto](#objetivo-del-proyecto)
-  - [Estructura del Proyecto](#estructura-del-proyecto)
-  - [Instalacion](#instalacion)
+- [Características principales](#características-principales)
+- [Tecnologías principales](#tecnologías-principales)
+- [APIs utilizadas](#apis-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Capturas de pantalla de Countries Board](#capturas-de-pantalla-de-countries-board)
+- [Objetivo del proyecto](#objetivo-del-proyecto)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalacion](#instalacion)
 
 </details>
 
